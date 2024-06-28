@@ -140,6 +140,7 @@ button#trigger-overlay {
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height: 800px;
+	filter: grayscale(100%);
 }
 
 .rslides {
