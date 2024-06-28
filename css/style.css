@@ -132,7 +132,7 @@ button#trigger-overlay {
 /*--//nav --*/
 /*-- Heading-1 --*/
 .header-outs {
-    background: url(images/photo_2024-06-27_14-39-14.jpg);
+    background: url(../images/photo_2024-06-27_14-39-14.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -140,7 +140,7 @@ button#trigger-overlay {
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height: 800px;
-	filter: grayscale(100%);
+	opacity: 0.5;
 }
 
 .rslides {
