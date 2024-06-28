@@ -293,16 +293,17 @@ a {
 	margin-top: 18em;
 }
  .slider-info h4{
-	 font-weight:400;
+	 font-weight:600;
     color: #fff;
-    font-size: 5.5em;
+    font-size: 6em;
     letter-spacing: 3px;
 }
  .slider-info p{
-    font-size: 20px;
+    font-size: 25px;
     letter-spacing: 3px;
     padding: 16px 0px;
     color: #fff;
+	 background:black;
 }
 
 .callbacks_nav {
