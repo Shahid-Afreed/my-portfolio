@@ -481,9 +481,8 @@ a.there-more:nth-child(1) {
 }
 
 .about-gap{
-	   display: flex; /* Enable flexbox */
-    flex-direction: column; /* Arrange items vertically */
-    height: 100%;
+background:#00c4ff;
+padding: 2em 3em;
 }
 .about-gap span.fa{
 	color:#fff;
@@ -498,13 +497,13 @@ a.there-more:nth-child(1) {
     color: #FFF;
     font-weight: 600;
     letter-spacing: 2px;
-      margin: 0;
+     margin: 21px 0px 15px;
 }
 .about-gap p {
     font-size: 15px;
     color: #000;
     line-height: 26px;
-	  margin: 0;
+	 
 }
 /*--//about--*/
 /*--services--*/
@@ -1466,9 +1465,7 @@ span.font {
     min-height: 410px;
 }
 .aboutmy-services {
-    
-	  display: flex;
-    flex-wrap: wrap;
+	margin-top: 1.7em;
 }
 ul.address li ul.address-text li:nth-child(1) {
     width: 25%;
@@ -1499,11 +1496,8 @@ ul.address li ul.address-text li:nth-child(1) {
     padding: 1.5em 0em 0em;
 }
 .about-ser-grid {
-   width: 50%; 
-    padding: 15px;
-    box-sizing: border-box; 
-    display: flex; 
-    flex-direction: column;
+   width: 100%;
+    padding: 0px;
 }
 .service-num-left h6 {
     width: 40px;
